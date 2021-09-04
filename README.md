@@ -1,4 +1,4 @@
-# instagram
+# INSTAGRAM
 
 <details>
     <summary>  Heroku?</summary>
